@@ -21,7 +21,7 @@ Or use Docker. You can find convenient way to run the app below.
 * Navigate to the project directory: cd fractal-now
 * Install the required gems: `bundle install`
 * Start the application: `bundle exec puma`
-* Send a POST request with a fractal configuration file to http://localhost:9292/fractal
+* Send a POST request with a fractal configuration file to http://localhost:8080/fractal
 * The response will be a PNG image of the rendered fractal.
 
 ## API
